@@ -1,0 +1,9 @@
+rm namearchivo (eliminar)
+rm -R name/ (directorio)
+ping name  (devuelve la ip ) salir control+c
+sudo apt-get update (notifica actualizaciones la distribucion de ubuntu)
+sudo apt-get upgrade(actualiza)
+mv name file destino
+cp name namecopia
+man namecomand (manual)
+./name.ext  (ejecutar)
