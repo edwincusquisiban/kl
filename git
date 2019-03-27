@@ -1,0 +1,11 @@
+git init
+git status 
+git add name.ext git add .
+git commit -m ""(guada cambios)
+git remote add origin https://github.com/edwincusquisiban/kl.git
+git push -u origin master
+
+git branch(ver todas las ramas)
+git branch name (crea una rama)
+git checkout namerama (ir a una rama)
+git merge nameramaabsorvida (desde la rama que absorve)
